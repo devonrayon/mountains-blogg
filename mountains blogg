@@ -1,0 +1,1324 @@
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://hminet.org/xmlrpc.php">
+	<script type="text/javascript" id="lpData">
+/* <![CDATA[ */
+var lpData = {"site_url":"https:\/\/hminet.org","user_id":"0","theme":"eduma","lp_rest_url":"https:\/\/hminet.org\/wp-json\/","nonce":"4bedd1e12b","is_course_archive":"","courses_url":"https:\/\/hminet.org\/courses\/","urlParams":[],"lp_version":"4.2.6.5","lp_rest_load_ajax":"https:\/\/hminet.org\/wp-json\/lp\/v1\/load_content_via_ajax\/"};
+/* ]]> */
+</script>
+		<style id="learn-press-custom-css">
+			:root {
+				--lp-cotainer-max-with: 1290px;
+				--lp-cotainer-padding: 2rem;
+				--lp-primary-color: #ffb606;
+				--lp-secondary-color: #442e66;
+			}
+		</style>
+		<title>Blog | High Mountain Institute</title>
+<meta name='robots' content='max-image-preview:large' />
+<link href='https://fonts.gstatic.com' crossorigin='' rel='preconnect' />
+<link rel='preconnect' href='https://fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="High Mountain Institute &raquo; Feed" href="https://hminet.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="High Mountain Institute &raquo; Comments Feed" href="https://hminet.org/comments/feed/" />
+<link rel='stylesheet' id='sbi_styles-css' href='https://hminet.org/wp-content/plugins/instagram-feed/css/sbi-styles.min.css' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #389bc2;--wp--preset--color--title: #333;--wp--preset--color--sub-title: #999;--wp--preset--color--border-input: #ddd;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 28px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 15px;--wp--preset--font-size--huge: 36px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='tnado_hidefi_styles-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/70f6fada33fd6edfe55cd561f60280f5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/89f2209e3835f974152bdeeab17d699d.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='simple-banner-style-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/9cca70beda7f9004a564197f57039f6a.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://hminet.org/wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://hminet.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='learnpress-widgets-css' href='https://hminet.org/wp-content/plugins/learnpress/assets/css/widgets.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://hminet.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css' href='https://hminet.org/wp-content/themes/eduma/assets/css/ionicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-pe-icon-7-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/6aeef73a1f3bb24e6bd73e70853217bf.css' type='text/css' media='all' />
+<link rel='stylesheet' id='flaticon-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/482cae3dc8e5fa3d2b03d281556db6ee.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-custom-el-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/ce370342f77a0ae8a25b3c1ea287eae9.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/08362126d6fc21524c81320fc1d5233d.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-options-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/e9a4b81fcfb27eece762e46f4b7a54a1.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/eef4e32c641e50e854cebad127585235.js" id="wphb-1-js"></script>
+<script type="text/javascript" id="wphb-2-js-extra">
+/* <![CDATA[ */
+var wpstg = {"nonce":"8cbb193a01"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="wphb-2-js-before">
+/* <![CDATA[ */
+const simpleBannerScriptParams = {"version":"2.17.0","hide_simple_banner":"yes","simple_banner_prepend_element":false,"simple_banner_position":"fixed","header_margin":"35px","header_padding":"35px","simple_banner_z_index":"","simple_banner_text":"<a href=\"https:\/\/hminet.org\/25-year-reunion\/\">Join Us June 9-11 for our 25th Anniversary Reunion!<\/a>","pro_version_enabled":"","disabled_on_current_page":false,"debug_mode":"","id":52925,"disabled_pages_array":[],"is_current_page_a_post":true,"disabled_on_posts":"","simple_banner_disabled_page_paths":false,"simple_banner_font_size":"","simple_banner_color":"#4388b6","simple_banner_text_color":"#050000","simple_banner_link_color":"#fff","simple_banner_close_color":"","simple_banner_custom_css":"font-size: 14px;","simple_banner_scrolling_custom_css":"","simple_banner_text_custom_css":"","simple_banner_button_css":"","site_custom_css":"","keep_site_custom_css":"","site_custom_js":"","keep_site_custom_js":"","wp_body_open_enabled":"","wp_body_open":true,"close_button_enabled":"on","close_button_expiration":"","close_button_cookie_set":false,"current_date":{"date":"2024-04-25 09:31:58.423882","timezone_type":3,"timezone":"UTC"},"start_date":{"date":"2024-04-25 09:31:58.423893","timezone_type":3,"timezone":"UTC"},"end_date":{"date":"2024-04-25 09:31:58.423898","timezone_type":3,"timezone":"UTC"},"simple_banner_start_after_date":false,"simple_banner_remove_after_date":"","simple_banner_insert_inside_element":""}
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/f902e60fa9ce455d711d01c5df4eb426.js" id="wphb-2-js"></script>
+<link rel="https://api.w.org/" href="https://hminet.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://hminet.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.2" />
+<style type='text/css'> .ae_data .elementor-editor-element-setting {
+            display:none !important;
+            }
+            </style><style type="text/css">.simple-banner{display:none;}</style><style type="text/css">.simple-banner{position:fixed;}</style><style type="text/css">.simple-banner{background:#4388b6;}</style><style type="text/css">.simple-banner .simple-banner-text{color:#050000;}</style><style type="text/css">.simple-banner .simple-banner-text a{color:#fff;}</style><style type="text/css">.simple-banner{z-index: 99999;}</style><style type="text/css">.simple-banner{font-size: 14px;}</style><style id="simple-banner-site-custom-css-dummy" type="text/css"></style><script id="simple-banner-site-custom-js-dummy" type="text/javascript"></script><!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+<link rel="canonical" href="https://hminet.org/blog/" />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/hminet.org\/#schema-publishing-organization","url":"https:\/\/hminet.org","name":"High Mountain Institute"},{"@type":"WebSite","@id":"https:\/\/hminet.org\/#schema-website","url":"https:\/\/hminet.org","name":"High Mountain Institute","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/hminet.org\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https:\/\/hminet.org\/blog\/#schema-webpage","isPartOf":{"@id":"https:\/\/hminet.org\/#schema-website"},"publisher":{"@id":"https:\/\/hminet.org\/#schema-publishing-organization"},"url":"https:\/\/hminet.org\/blog\/","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":"1","url":"https:\/\/hminet.org\/welcome-simon-kearns-hmis-new-advancement-associate\/"},{"@type":"ListItem","position":"2","url":"https:\/\/hminet.org\/rocks-and-gap\/"},{"@type":"ListItem","position":"3","url":"https:\/\/hminet.org\/semester-52-2nd-expedition-the-winter-trip\/"},{"@type":"ListItem","position":"4","url":"https:\/\/hminet.org\/cerro-castillo-gap-spring-trek\/"},{"@type":"ListItem","position":"5","url":"https:\/\/hminet.org\/an-ode-to-fear-and-gratitude-the-futa-flexpedition\/"},{"@type":"ListItem","position":"6","url":"https:\/\/hminet.org\/semester-52-ski-week-the-1st-academic-block\/"},{"@type":"ListItem","position":"7","url":"https:\/\/hminet.org\/fall-trek-2024-starts-in-patagonia\/"},{"@type":"ListItem","position":"8","url":"https:\/\/hminet.org\/semester-52-first-expedition\/"},{"@type":"ListItem","position":"9","url":"https:\/\/hminet.org\/alumni-spotlight-alden-iselins-leadville-100\/"},{"@type":"ListItem","position":"10","url":"https:\/\/hminet.org\/gratitude-for-amy-roberts\/"}]}},{"@type":"BreadcrumbList","@id":"https:\/\/hminet.org\/blog?page&pagename=blog\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/hminet.org"},{"@type":"ListItem","position":2,"name":"Welcome Simon Kearns: HMI&#8217;s New Advancement Associate"}]}]}</script>
+<!-- /SEO -->
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		            <script type="text/javascript">
+                function tc_insert_internal_css(css) {
+                    var tc_style = document.createElement("style");
+                    tc_style.type = "text/css";
+                    tc_style.setAttribute('data-type', 'tc-internal-css');
+                    var tc_style_content = document.createTextNode(css);
+                    tc_style.appendChild(tc_style_content);
+                    document.head.appendChild(tc_style);
+                }
+            </script>
+			<meta name="generator" content="Elementor 3.21.2; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://hminet.org/wp-content/uploads/2019/07/hmi_favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://hminet.org/wp-content/uploads/2019/07/hmi_favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://hminet.org/wp-content/uploads/2019/07/hmi_favicon.png" />
+<meta name="msapplication-TileImage" content="https://hminet.org/wp-content/uploads/2019/07/hmi_favicon.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style id="thim-customizer-inline-styles">/* vietnamese */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUQ2zcZiVbJsNo.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUR2zcZiVbJsNo.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUQ2zcZiVbJsNo.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUR2zcZiVbJsNo.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/librefranklin/v14/jizDREVItHgc8qDIbSTKq4XkRiUf2zcZiVbJ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style>		<script type="text/javascript">
+            if (typeof ajaxurl === 'undefined') {
+                /* <![CDATA[ */
+                var ajaxurl = "https://hminet.org/wp-admin/admin-ajax.php";
+                /* ]]> */
+            }
+		</script>
+			<script defer src="/wp-content/hmi/common.js"></script>
+	<!-- Google Tag Manager Social Summer Camp -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PTNG23T');</script>
+	<!-- End Google Tag Manager Social Summer Camp -->
+</head>
+<body class="blog wp-embed-responsive group-blog thim-body-load-overlay bg-boxed-image thim-popup-feature elementor-default elementor-kit-18924" id="thim-body">
+<!-- Google Tag Manager (noscript) Social Summer Camp -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PTNG23T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) Social Summer Camp -->
+
+
+<!-- Mobile Menu-->
+<div class="mobile-menu-wrapper">
+    <div class="mobile-menu-inner">
+        <div class="icon-wrapper">
+            <div class="menu-mobile-effect navbar-toggle close-icon" data-effect="mobile-effect">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </div>
+        </div>
+        <nav class="mobile-menu-container mobile-effect">
+            <ul class="nav navbar-nav">
+	<li id="menu-item-12354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12354 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/" class="tc-menu-inner">Home</a>
+<ul class="sub-menu">
+	<li id="menu-item-9513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9513 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li id="menu-item-15348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15348 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/bienvenidos/" class="tc-menu-inner tc-megamenu-title">¡Bienvenidos!</a></li>
+	<li id="menu-item-9518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9518 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/directory/" class="tc-menu-inner tc-megamenu-title">Faculty &#038; Staff</a></li>
+	<li id="menu-item-12613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12613 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/diversity-and-inclusion/" class="tc-menu-inner tc-megamenu-title">Diversity &#038; Inclusion</a></li>
+	<li id="menu-item-9516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9516 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/campus/" class="tc-menu-inner tc-megamenu-title">Campus &#038; Location</a></li>
+	<li id="menu-item-13318" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-125 current_page_item menu-item-13318 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/blog/" class="tc-menu-inner tc-megamenu-title">Blog</a></li>
+	<li id="menu-item-9515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9515 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/board/" class="tc-menu-inner tc-megamenu-title">Board of Trustees</a></li>
+	<li id="menu-item-41856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41856 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+	<li id="menu-item-26826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26826 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/employment-2/" class="tc-menu-inner tc-megamenu-title">Employment</a></li>
+	<li id="menu-item-19976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19976 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-9521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9521 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-semester/" class="tc-menu-inner">Semester</a>
+<ul class="sub-menu">
+	<li id="menu-item-10753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10753 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li id="menu-item-9645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9645 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/academics/" class="tc-menu-inner tc-megamenu-title">Academics</a></li>
+	<li id="menu-item-9644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9644 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/wilderness-expeditions/" class="tc-menu-inner tc-megamenu-title">Wilderness Expeditions</a></li>
+	<li id="menu-item-9643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9643 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/living-at-hmi/" class="tc-menu-inner tc-megamenu-title">Living at HMI</a></li>
+	<li id="menu-item-9642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9642 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/hmi-and-college/" class="tc-menu-inner tc-megamenu-title">HMI and College</a></li>
+	<li id="menu-item-9641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9641 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/" class="tc-menu-inner tc-megamenu-title">Admissions</a></li>
+	<li id="menu-item-9640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9640 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li id="menu-item-12695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12695 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/admissions-presentations/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li id="menu-item-19973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19973 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li id="menu-item-9639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9639 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li id="menu-item-9638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9638 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-10306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10306 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-summer-term/" class="tc-menu-inner">Summer</a>
+<ul class="sub-menu">
+	<li id="menu-item-10752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li id="menu-item-10381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10381 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/writing-seminar/" class="tc-menu-inner tc-megamenu-title">Writing Seminar</a></li>
+	<li id="menu-item-10382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10382 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/wilderness-expeditions/" class="tc-menu-inner tc-megamenu-title">Wilderness Expeditions</a></li>
+	<li id="menu-item-10383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10383 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/day-in-the-life/" class="tc-menu-inner tc-megamenu-title">Living at HMI</a></li>
+	<li id="menu-item-10384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/admissions/" class="tc-menu-inner tc-megamenu-title">Admissions</a></li>
+	<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li id="menu-item-12697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12697 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/admissions-presentations/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li id="menu-item-19974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19974 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li id="menu-item-10386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10386 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li id="menu-item-10387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10387 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-9522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9522 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-gap/" class="tc-menu-inner">Gap</a>
+<ul class="sub-menu">
+	<li id="menu-item-10694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10694 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li id="menu-item-10095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10095 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/program-elements/" class="tc-menu-inner tc-megamenu-title">The Gap Experience</a></li>
+	<li id="menu-item-10091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10091 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/find-your-semester/" class="tc-menu-inner tc-megamenu-title">Find Your Semester</a></li>
+	<li id="menu-item-18295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18295 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/gap-and-college/" class="tc-menu-inner tc-megamenu-title">Gap &#038; College</a></li>
+	<li id="menu-item-10092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10092 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/apply-now/" class="tc-menu-inner tc-megamenu-title">Apply Now</a></li>
+	<li id="menu-item-10090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10090 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li id="menu-item-13163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13163 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/information-sessions/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li id="menu-item-19975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19975 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li id="menu-item-10089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10089 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li id="menu-item-10088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10088 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+	<li id="menu-item-42062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42062 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/hmi-gap-alumni/" class="tc-menu-inner tc-megamenu-title">HMI Gap Alumni</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-10812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10812 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/adult-programs/apprentice-program/" class="tc-menu-inner">Apprentice</a>
+<ul class="sub-menu">
+	<li id="menu-item-12831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12831 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li id="menu-item-12864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12864 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/admissions/" class="tc-menu-inner tc-megamenu-title">Apply Now</a></li>
+	<li id="menu-item-12865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12865 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/graduate-credit/" class="tc-menu-inner tc-megamenu-title">Graduate Credit</a></li>
+	<li id="menu-item-19977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19977 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li id="menu-item-12830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12830 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/for-enrolled-apprentices/" class="tc-menu-inner tc-megamenu-title">For Enrolled Apprentices</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-18601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18601 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Other Programs</span>
+<ul class="sub-menu">
+	<li id="menu-item-34132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34132 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/other-programs/partner-trips/" class="tc-menu-inner tc-megamenu-title">Partner Trips</a></li>
+	<li id="menu-item-17790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17790 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/educators-expedition/" class="tc-menu-inner tc-megamenu-title">Educator’s Expedition</a></li>
+	<li id="menu-item-18585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18585 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/lake-county-backpacking-trip/" class="tc-menu-inner tc-megamenu-title">Lake County Backpacking Trip</a></li>
+	<li id="menu-item-21810" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21810 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/tuition-affordability/lake-county-high-school-merit-scholarship/" class="tc-menu-inner tc-megamenu-title">LCHS Merit Scholarships</a></li>
+	<li id="menu-item-19978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19978 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/facilities-rentals/" class="tc-menu-inner tc-megamenu-title">Facilities Rentals</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-10662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10662 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/alumni/" class="tc-menu-inner">Alumni</a>
+<ul class="sub-menu">
+	<li id="menu-item-12596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12596 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/" class="tc-menu-inner tc-megamenu-title">Alumni Welcome</a></li>
+	<li id="menu-item-34361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34361 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+	<li id="menu-item-22073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22073 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/summit-challenge/" class="tc-menu-inner tc-megamenu-title">The Summit Challenge</a></li>
+	<li id="menu-item-12599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12599 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/alumni-council/" class="tc-menu-inner tc-megamenu-title">Alumni Council</a></li>
+	<li id="menu-item-42060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42060 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/hmi-gap-alumni/" class="tc-menu-inner tc-megamenu-title">HMI Gap Alumni</a></li>
+	<li id="menu-item-30133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30133 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni-events/" class="tc-menu-inner tc-megamenu-title">Alumni Events</a></li>
+	<li id="menu-item-17929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17929 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/collegeconnections/" class="tc-menu-inner tc-megamenu-title">College Connections</a></li>
+	<li id="menu-item-20131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20131 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/alumni-updates-2/" class="tc-menu-inner tc-megamenu-title">Alumni Updates</a></li>
+	<li id="menu-item-27545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27545 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/newsletters/" class="tc-menu-inner tc-megamenu-title">Newsletters</a></li>
+	<li id="menu-item-14690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14690 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a target="_blank" href="https://hminet.org/bookstore/" class="tc-menu-inner tc-megamenu-title">Online Store</a></li>
+	<li id="menu-item-12600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12600 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/update-your-information/" class="tc-menu-inner tc-megamenu-title">Update Your Information</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li id="menu-item-9527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9527 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/give/" class="tc-menu-inner">Give</a>
+<ul class="sub-menu">
+	<li id="menu-item-9529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9529 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/donate/" class="tc-menu-inner tc-megamenu-title">Donate Now</a></li>
+	<li id="menu-item-16705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16705 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/give/" class="tc-menu-inner tc-megamenu-title">Ways to Give</a></li>
+	<li id="menu-item-9528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9528 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/give/impact-reports/" class="tc-menu-inner tc-megamenu-title">Impact Reports</a></li>
+	<li id="menu-item-21261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21261 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/newsletters/" class="tc-menu-inner tc-megamenu-title">Newsletters</a></li>
+	<li id="menu-item-41000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41000 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-right header_v4"><ul><li id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://hminet.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></li></ul></li></ul>
+        </nav>
+    </div>
+</div>
+
+<div id="wrapper-container" class="wrapper-container">
+	<div class="content-pusher">
+		<header id="masthead" class="site-header affix-top bg-custom-sticky sticky-header header_overlay header_v4">
+			<!-- <div class="main-menu"> -->
+<div class="thim-nav-wrapper container">
+	<div class="row">
+		<div class="navigation col-sm-12">
+			<div class="tm-table">
+				<div class="width-logo table-cell sm-logo">
+					<a href="https://hminet.org/" title="High Mountain Institute - Semester, Summer and Gap Year in Colorado" rel="home" class="no-sticky-logo"><img data-src="https://hminet.org/wp-content/uploads/2019/10/logo_white-1.png" alt="High Mountain Institute"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 141px; --smush-placeholder-aspect-ratio: 141/103;"><noscript><img src="https://hminet.org/wp-content/uploads/2019/10/logo_white-1.png" alt="High Mountain Institute" ></noscript></a><a href="https://hminet.org/" rel="home" class="sticky-logo"><img data-src="https://hminet.org/wp-content/uploads/2019/10/HMI-LOGO-Black-without-text-1.png" alt="High Mountain Institute"  src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" style="--smush-placeholder-width: 141px; --smush-placeholder-aspect-ratio: 141/103;"><noscript><img src="https://hminet.org/wp-content/uploads/2019/10/HMI-LOGO-Black-without-text-1.png" alt="High Mountain Institute" ></noscript></a>				</div>
+
+				<nav class="width-navigation table-cell table-right">
+					<ul class="nav navbar-nav menu-main-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12354 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/" class="tc-menu-inner">Home</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9513 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15348 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/bienvenidos/" class="tc-menu-inner tc-megamenu-title">¡Bienvenidos!</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9518 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/directory/" class="tc-menu-inner tc-megamenu-title">Faculty &#038; Staff</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12613 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/diversity-and-inclusion/" class="tc-menu-inner tc-megamenu-title">Diversity &#038; Inclusion</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9516 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/campus/" class="tc-menu-inner tc-megamenu-title">Campus &#038; Location</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-125 current_page_item menu-item-13318 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/blog/" class="tc-menu-inner tc-megamenu-title">Blog</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9515 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/about-us/board/" class="tc-menu-inner tc-megamenu-title">Board of Trustees</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41856 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26826 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/employment-2/" class="tc-menu-inner tc-megamenu-title">Employment</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19976 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9521 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-semester/" class="tc-menu-inner">Semester</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10753 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9645 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/academics/" class="tc-menu-inner tc-megamenu-title">Academics</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9644 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/wilderness-expeditions/" class="tc-menu-inner tc-megamenu-title">Wilderness Expeditions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9643 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/living-at-hmi/" class="tc-menu-inner tc-megamenu-title">Living at HMI</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9642 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/hmi-and-college/" class="tc-menu-inner tc-megamenu-title">HMI and College</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9641 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/" class="tc-menu-inner tc-megamenu-title">Admissions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9640 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12695 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/admissions-presentations/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19973 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9639 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9638 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10306 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-summer-term/" class="tc-menu-inner">Summer</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10381 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/writing-seminar/" class="tc-menu-inner tc-megamenu-title">Writing Seminar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10382 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/wilderness-expeditions/" class="tc-menu-inner tc-megamenu-title">Wilderness Expeditions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10383 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/day-in-the-life/" class="tc-menu-inner tc-megamenu-title">Living at HMI</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/admissions/" class="tc-menu-inner tc-megamenu-title">Admissions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12697 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/admissions/admissions-presentations/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19974 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10386 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10387 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-summer-term/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9522 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/hmi-gap/" class="tc-menu-inner">Gap</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10694 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10095 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/program-elements/" class="tc-menu-inner tc-megamenu-title">The Gap Experience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10091 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/find-your-semester/" class="tc-menu-inner tc-megamenu-title">Find Your Semester</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18295 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/gap-and-college/" class="tc-menu-inner tc-megamenu-title">Gap &#038; College</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10092 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/apply-now/" class="tc-menu-inner tc-megamenu-title">Apply Now</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10090 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/tuition-affordability/" class="tc-menu-inner tc-megamenu-title">Tuition &#038; Affordability</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13163 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/information-sessions/" class="tc-menu-inner tc-megamenu-title">Info Sessions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19975 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10089 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/faq/" class="tc-menu-inner tc-megamenu-title">FAQ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10088 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/for-enrolled-students/" class="tc-menu-inner tc-megamenu-title">For Enrolled Students</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42062 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/hmi-gap-alumni/" class="tc-menu-inner tc-megamenu-title">HMI Gap Alumni</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10812 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/adult-programs/apprentice-program/" class="tc-menu-inner">Apprentice</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12831 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/" class="tc-menu-inner tc-megamenu-title">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12864 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/admissions/" class="tc-menu-inner tc-megamenu-title">Apply Now</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12865 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/graduate-credit/" class="tc-menu-inner tc-megamenu-title">Graduate Credit</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19977 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/request-information/" class="tc-menu-inner tc-megamenu-title">Request Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12830 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/apprentice-program/for-enrolled-apprentices/" class="tc-menu-inner tc-megamenu-title">For Enrolled Apprentices</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18601 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><span class="tc-menu-inner">Other Programs</span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34132 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/other-programs/partner-trips/" class="tc-menu-inner tc-megamenu-title">Partner Trips</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17790 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/adult-programs/educators-expedition/" class="tc-menu-inner tc-megamenu-title">Educator’s Expedition</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18585 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/lake-county-backpacking-trip/" class="tc-menu-inner tc-megamenu-title">Lake County Backpacking Trip</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21810 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-semester/tuition-affordability/lake-county-high-school-merit-scholarship/" class="tc-menu-inner tc-megamenu-title">LCHS Merit Scholarships</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19978 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/facilities-rentals/" class="tc-menu-inner tc-megamenu-title">Facilities Rentals</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10662 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/alumni/" class="tc-menu-inner">Alumni</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12596 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/" class="tc-menu-inner tc-megamenu-title">Alumni Welcome</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34361 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22073 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/summit-challenge/" class="tc-menu-inner tc-megamenu-title">The Summit Challenge</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12599 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/alumni-council/" class="tc-menu-inner tc-megamenu-title">Alumni Council</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42060 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/hmi-gap/hmi-gap-alumni/" class="tc-menu-inner tc-megamenu-title">HMI Gap Alumni</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30133 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni-events/" class="tc-menu-inner tc-megamenu-title">Alumni Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17929 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/collegeconnections/" class="tc-menu-inner tc-megamenu-title">College Connections</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20131 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/alumni-updates-2/" class="tc-menu-inner tc-megamenu-title">Alumni Updates</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27545 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/newsletters/" class="tc-menu-inner tc-megamenu-title">Newsletters</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14690 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a target="_blank" href="https://hminet.org/bookstore/" class="tc-menu-inner tc-megamenu-title">Online Store</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12600 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/update-your-information/" class="tc-menu-inner tc-megamenu-title">Update Your Information</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9527 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/give/" class="tc-menu-inner">Give</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9529 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/donate/" class="tc-menu-inner tc-megamenu-title">Donate Now</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16705 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/give/" class="tc-menu-inner tc-megamenu-title">Ways to Give</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9528 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/give/impact-reports/" class="tc-menu-inner tc-megamenu-title">Impact Reports</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21261 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/newsletters/" class="tc-menu-inner tc-megamenu-title">Newsletters</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41000 tc-menu-item tc-menu-depth-1 tc-menu-align-left"><a href="https://hminet.org/alumni/meet-the-new-head-tour/" class="tc-menu-inner tc-megamenu-title">Meet the New Head</a></li>
+</ul><!-- End wrapper ul sub -->
+</li>
+</ul>
+<!--</div>-->				</nav>
+
+                <div class="menu-right table-cell table-right">
+                    <ul><li id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://hminet.org/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></li></ul>                </div>
+
+                <div class="menu-mobile-effect navbar-toggle" data-effect="mobile-effect">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+
+			</div>
+			<!--end .row-->
+		</div>
+	</div>
+</div>		</header>
+
+		<div id="main-content">    <section class="content-area">
+		<div class="top_heading  _out">
+    <div class="top_site_main lazyload" style="color: #ffffff;background-image:inherit;" data-bg-image="url(https://hminet.org/wp-content/uploads/2017/07/Twin-Lakes-Glaciology-smaller-file.jpg)">
+        <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
+                    <div class="page-title-wrapper">
+                <div class="banner-wrapper container">
+                    <h1>Blog</h1>                </div>
+            </div>
+            </div>
+    </div><div class="container site-content"><div class="row"><main id="main" class="site-main col-sm-12 full-width">	<div id="blog-archive" class="blog-content">
+					<div class="row">
+				<article id="post-52925" class="col-sm-12 post-52925 post type-post status-publish format-standard has-post-thumbnail hentry category-hmi-news">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/welcome-simon-kearns-hmis-new-advancement-associate/"><img fetchpriority="high" width="1200" height="900" src="https://hminet.org/wp-content/uploads/2024/04/IMG_9421-3.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/04/IMG_9421-3.jpg 1200w, https://hminet.org/wp-content/uploads/2024/04/IMG_9421-3-300x225.jpg 300w, https://hminet.org/wp-content/uploads/2024/04/IMG_9421-3-1024x768.jpg 1024w, https://hminet.org/wp-content/uploads/2024/04/IMG_9421-3-768x576.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							17<i>Apr, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/welcome-simon-kearns-hmis-new-advancement-associate/" rel="bookmark">Welcome Simon Kearns: HMI&#8217;s New Advancement Associate</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/hminet/">High Mountain Institute</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/hmi-news/" rel="category tag">HMI News</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Hi Simon, welcome back to HMI! Can you tell us a bit about your new role and your connection to HMI? Thank you so much! I couldn’t be more excited to be back at HMI and in Leadville and I&#8217;m &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/welcome-simon-kearns-hmis-new-advancement-associate/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-52906" class="col-sm-12 post-52906 post type-post status-publish format-standard hentry category-gap">
+	<div class="content-inner">
+				<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							15<i>Apr, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/rocks-and-gap/" rel="bookmark">Rocks and Gap!</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/yrodriguez/">Yanitsa Rodriguez</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/gap/" rel="category tag">Gap</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Gap Spring Trek &#8217;24 Written by: Rowan I found childlike joy in the NPI! In between glaciology classes, I was really into rocks. Like in the way my five year old nephew is obsessed with Paw Patrol and racing cars, &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/rocks-and-gap/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-51833" class="col-sm-12 post-51833 post type-post status-publish format-standard hentry category-semester tag-quigloo tag-telemark-skiing tag-winter-camping">
+	<div class="content-inner">
+				<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							03<i>Apr, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/semester-52-2nd-expedition-the-winter-trip/" rel="bookmark">Semester 52 2nd Expedition: &#8220;The Winter Trip&#8221;</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/hminet/">High Mountain Institute</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/semester/" rel="category tag">Semester</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Group A: Willow O’Hara My favorite part of second expedition was our day skis and the jumps we found on them. I enjoy backcountry skiing and do it often at home, so it was fun to do it in a &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/semester-52-2nd-expedition-the-winter-trip/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-51825" class="col-sm-12 post-51825 post type-post status-publish format-standard hentry category-gap">
+	<div class="content-inner">
+				<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							03<i>Apr, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/cerro-castillo-gap-spring-trek/" rel="bookmark">Cerro Castillo Gap Spring Trek</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/yrodriguez/">Yanitsa Rodriguez</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/gap/" rel="category tag">Gap</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Gap Spring Trek &#8217;24 Written by: Sara Dear Cerro Castillo National Park, Somewhere in Chilean Patagonia while I was backpacking and camping with my friends, you taught me things. The type of knowledge that goes beyond academics made me grow &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/cerro-castillo-gap-spring-trek/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-50275" class="col-sm-12 post-50275 post type-post status-publish format-standard has-post-thumbnail hentry category-gap">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/an-ode-to-fear-and-gratitude-the-futa-flexpedition/"><img width="1200" height="800" data-src="https://hminet.org/wp-content/uploads/2024/03/JZF_0036.jpg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/03/JZF_0036.jpg 1200w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-768x512.jpg 768w" data-sizes="(max-width: 1200px) 100vw, 1200px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1200px; --smush-placeholder-aspect-ratio: 1200/800;" /><noscript><img width="1200" height="800" src="https://hminet.org/wp-content/uploads/2024/03/JZF_0036.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/03/JZF_0036.jpg 1200w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/03/JZF_0036-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							21<i>Mar, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/an-ode-to-fear-and-gratitude-the-futa-flexpedition/" rel="bookmark">An Ode to Fear and Gratitude: The Futa Flexpedition</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/yrodriguez/">Yanitsa Rodriguez</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/gap/" rel="category tag">Gap</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Spring Trek 2024 Written by: Arman There are two ways to ‘be’ in Spanish: ‘Ser’ and ‘Estar’. They represent the permanence and the impermanence of the states of being. As someone who has been afraid of so many things, Spanish &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/an-ode-to-fear-and-gratitude-the-futa-flexpedition/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-49954" class="col-sm-12 post-49954 post type-post status-publish format-standard has-post-thumbnail hentry category-semester">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/semester-52-ski-week-the-1st-academic-block/"><img width="900" height="1200" data-src="https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825.jpg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825.jpg 900w, https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825-225x300.jpg 225w, https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825-768x1024.jpg 768w" data-sizes="(max-width: 900px) 100vw, 900px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 900px; --smush-placeholder-aspect-ratio: 900/1200;" /><noscript><img width="900" height="1200" src="https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825.jpg 900w, https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825-225x300.jpg 225w, https://hminet.org/wp-content/uploads/2024/03/SEM52-Ski-Week-Team-Buckeye-M-Adler-A-Smith-A-Palitti-B-Baskin-H-Handler-T-Galson-e1710434015825-768x1024.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							14<i>Mar, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/semester-52-ski-week-the-1st-academic-block/" rel="bookmark">Semester 52: Ski Week &#038; the 1st Academic Block</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/hminet/">High Mountain Institute</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/semester/" rel="category tag">Semester</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Dean of Students Mike Adler with students at Ski Cooper By Pierson Parker This week, Ski Week, has been so much fun. Before Monday of this week, I had never touched a pair of skis in my life. At home &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/semester-52-ski-week-the-1st-academic-block/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-49098" class="col-sm-12 post-49098 post type-post status-publish format-standard has-post-thumbnail hentry category-gap">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/fall-trek-2024-starts-in-patagonia/"><img width="1200" height="800" data-src="https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela.jpg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela.jpg 1200w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-768x512.jpg 768w" data-sizes="(max-width: 1200px) 100vw, 1200px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1200px; --smush-placeholder-aspect-ratio: 1200/800;" /><noscript><img width="1200" height="800" src="https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela.jpg 1200w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/03/strek24-PNP-Group-Selfie-Miles-Turner-Steph-Schnider-Ruby-Packer-R-Cassleman-A-Kiernan-D-Bilobrova-A-Singh-S-Cosentino-S-Vilela-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							04<i>Mar, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/fall-trek-2024-starts-in-patagonia/" rel="bookmark">Spring Trek 2024 Starts in Patagonia!</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/yrodriguez/">Yanitsa Rodriguez</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/gap/" rel="category tag">Gap</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Fall Trek &#8217;24 Written by: Diana Near the Carraterra de Austral, which is the highway through Chilean Patagonia, we set our camp after long, long hiking day through the Chacabuco Valley. We came out from the private 4-wheeler road winding &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/fall-trek-2024-starts-in-patagonia/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-47448" class="col-sm-12 post-47448 post type-post status-publish format-standard has-post-thumbnail hentry category-semester">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/semester-52-first-expedition/"><img width="900" height="1200" data-src="https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6.jpg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6.jpg 900w, https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6-225x300.jpg 225w, https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6-768x1024.jpg 768w" data-sizes="(max-width: 900px) 100vw, 900px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 900px; --smush-placeholder-aspect-ratio: 900/1200;" /><noscript><img width="900" height="1200" src="https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6.jpg 900w, https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6-225x300.jpg 225w, https://hminet.org/wp-content/uploads/2024/02/1st-exped-semester-52-canyons-08-6-768x1024.jpg 768w" sizes="(max-width: 900px) 100vw, 900px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							16<i>Feb, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/semester-52-first-expedition/" rel="bookmark">Semester 52: First Expedition</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/hminet/">High Mountain Institute</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/semester/" rel="category tag">Semester</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Written by: Nora Tsai, Jula Cieciuch, Lucy Shapard, Izzy Buldak, George Dodge, Jemma Handler, Nelson Rice, Asher Harwood, Milo Mizner, &amp; Iris Bibeau-Leveillee Jula in a slot canyon Jacob&#8217;s Group By Nora Tsai The entirety of the first expedition was ineffable. There &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/semester-52-first-expedition/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-45054" class="col-sm-12 post-45054 post type-post status-publish format-standard has-post-thumbnail hentry category-alumni-profiles">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/alumni-spotlight-alden-iselins-leadville-100/"><img width="1200" height="800" data-src="https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6.jpg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6.jpg 1200w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-768x512.jpg 768w" data-sizes="(max-width: 1200px) 100vw, 1200px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1200px; --smush-placeholder-aspect-ratio: 1200/800;" /><noscript><img width="1200" height="800" src="https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6.jpg 1200w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-300x200.jpg 300w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-1024x683.jpg 1024w, https://hminet.org/wp-content/uploads/2024/01/alden-leadville-6-768x512.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							26<i>Jan, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/alumni-spotlight-alden-iselins-leadville-100/" rel="bookmark">Alumni Spotlight: Alden Iselin’s Leadville 100</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/hminet/">High Mountain Institute</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/alumni-profiles/" rel="category tag">Alumni Profiles</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>At age 18, Alden Iselin is the youngest HMI alum to complete the iconic Leadville Trail 100 Run By Alden Iselin, Semester 48 alum My name is Alden Iselin, I am a Semester 48 alum, and I ran the Leadville &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/alumni-spotlight-alden-iselins-leadville-100/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div><article id="post-44593" class="col-sm-12 post-44593 post type-post status-publish format-standard has-post-thumbnail hentry category-hmi-news">
+	<div class="content-inner">
+		<div class='post-formats-wrapper'><a class="post-image" href="https://hminet.org/gratitude-for-amy-roberts/"><img width="1200" height="798" data-src="https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1.jpeg" class="attachment-full size-full wp-post-image lazyload" alt="" decoding="async" data-srcset="https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1.jpeg 1200w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-300x200.jpeg 300w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-1024x681.jpeg 1024w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-768x511.jpeg 768w" data-sizes="(max-width: 1200px) 100vw, 1200px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 1200px; --smush-placeholder-aspect-ratio: 1200/798;" /><noscript><img width="1200" height="798" src="https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1.jpeg" class="attachment-full size-full wp-post-image" alt="" decoding="async" srcset="https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1.jpeg 1200w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-300x200.jpeg 300w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-1024x681.jpeg 1024w, https://hminet.org/wp-content/uploads/2024/01/SEM-43-Fun-Run-Amy-Roberts-1-768x511.jpeg 768w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript></a></div>		<div class="entry-content">
+							<header class="entry-header">
+											<div class="date-meta">
+							23<i>Jan, 2024</i>						</div>
+						
+					<div class="entry-contain">
+						<h2 class="entry-title"><a href="https://hminet.org/gratitude-for-amy-roberts/" rel="bookmark">Gratitude for Amy Roberts</a></h2>								<ul class="entry-meta">
+							<li class="author">
+					<span>Posted by</span>
+					<span class="vcard author author_name"><a href="https://hminet.org/author/rmcgaughey/">Ray McGaughey</a></span>				</li>
+								<li class="entry-category">
+					<span>Categories</span> <a href="https://hminet.org/category/hmi-news/" rel="category tag">HMI News</a>				</li>
+				
+		</ul>
+							</div>
+				</header>
+				<!-- .entry-header -->
+				<div class="entry-summary">
+					<p>Amy Roberts on the Semester 43 Fun Run (Fall 2019) By Ray McGaughey, Director of Development and Semester 15 Alum At HMI we spend a good deal of time sharing gratitude. On campus, we have a tradition called Grati-Tuesdays where &hellip; </p>
+				</div><!-- .entry-summary -->
+				<div class="readmore">
+					<a href="https://hminet.org/gratitude-for-amy-roberts/">Read More</a>
+				</div>
+					</div>
+	</div>
+</article><!-- #post-## -->
+<div class="blog_dividing_line"></div>			</div>
+			</div>
+				<div class="pagination loop-pagination">
+				<ul class='page-numbers'>
+	<li><span aria-current="page" class="page-numbers current">1</span></li>
+	<li><a class="page-numbers" href="https://hminet.org/blog/page/2/">2</a></li>
+	<li><span class="page-numbers dots">&#8230;</span></li>
+	<li><a class="page-numbers" href="https://hminet.org/blog/page/48/">48</a></li>
+	<li><a class="next page-numbers" href="https://hminet.org/blog/page/2/">&#62;</a></li>
+</ul>
+			</div>
+			<!-- .pagination -->
+			<div class="newsletter_signup dark__form">
+	<h3>Subscribe to our newsletter (two emails per year)</h3>
+			[mc4wp_form id="3383"]		</div>
+</main></div></div>    </section>
+
+<footer id="colophon" class=" site-footer has-footer-bottom">
+			<div class="footer">
+			<div class="container">
+				<div class="row">
+					<aside id="text-1210019" class="widget widget_text footer_widget">			<div class="textwidget">		<div data-elementor-type="wp-post" data-elementor-id="8920" class="elementor elementor-8920" data-elementor-post-type="ae_global_templates">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-3683d89 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3683d89" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0eb3511" data-id="0eb3511" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4e3ba6c elementor-widget elementor-widget-image" data-id="4e3ba6c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+													<img decoding="async" width="141" height="103" data-src="https://hminet.org/wp-content/uploads/2019/07/logo_white.png" class="attachment-full size-full wp-image-8960 lazyload" alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 141px; --smush-placeholder-aspect-ratio: 141/103;" /><noscript><img decoding="async" width="141" height="103" src="https://hminet.org/wp-content/uploads/2019/07/logo_white.png" class="attachment-full size-full wp-image-8960" alt="" /></noscript>													</div>
+				</div>
+				<div class="elementor-element elementor-element-b63c1a9 elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="b63c1a9" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="tel:%207194868200" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-phone"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<a href="tel:%207194868200" >
+							(719) 486-8200						</a>
+					</span>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-22e8f05 elementor-position-left elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="22e8f05" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.google.com/maps/place/High+Mountain+Institute/@39.2367989,-106.3696054,16.19z/data=!4m5!3m4!1s0x876a9a3d78cbc4a9:0x590deaf942a7f4df!8m2!3d39.2372325!4d-106.3673023" target="_blank" class="elementor-icon elementor-animation-" tabindex="-1" rel="noopener">
+				<i aria-hidden="true" class="fas fa-map-marker-alt"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<a href="https://www.google.com/maps/place/High+Mountain+Institute/@39.2367989,-106.3696054,16.19z/data=!4m5!3m4!1s0x876a9a3d78cbc4a9:0x590deaf942a7f4df!8m2!3d39.2372325!4d-106.3673023" target="_blank" rel="noopener">
+							531 County Rd 5A Leadville, CO 80461						</a>
+					</span>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-43d6b5f elementor-position-left elementor-vertical-align-middle elementor-view-default elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="43d6b5f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+
+						<div class="elementor-icon-box-icon">
+				<a href="https://hminet.org/contact/" class="elementor-icon elementor-animation-" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-envelope"></i>				</a>
+			</div>
+			
+						<div class="elementor-icon-box-content">
+
+									<span class="elementor-icon-box-title">
+						<a href="https://hminet.org/contact/" >
+							Contact Us						</a>
+					</span>
+				
+				
+			</div>
+			
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a895171 elementor-shape-square e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="a895171" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-2c56f34" href="https://www.facebook.com/pages/High-Mountain-Institute/148882025147505" target="_blank" rel="noopener">
+						<span class="elementor-screen-only">Facebook-f</span>
+						<i class="fab fa-facebook-f"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-3d42a02" href="https://instagram.com/highmountaininstitute" target="_blank" rel="noopener">
+						<span class="elementor-screen-only">Instagram</span>
+						<i class="fab fa-instagram"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-57afc4c" href="https://www.linkedin.com/school/high-mountain-institute/" target="_blank" rel="noopener">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-f425cd6" href="https://www.youtube.com/channel/UCXhs9OSilF5zqMVrpYzR4hQ" target="_blank" rel="noopener">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-tiktok elementor-repeater-item-cee39df" href="https://www.tiktok.com/tag/highmountaininstitute" target="_blank" rel="noopener">
+						<span class="elementor-screen-only">Tiktok</span>
+						<i class="fab fa-tiktok"></i>					</a>
+				</span>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-ed9e25f" data-id="ed9e25f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-31f9694 elementor-widget elementor-widget-thim-navigation-menu" data-id="31f9694" data-element_type="widget" data-widget_type="thim-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="widget widget_nav_menu"><h4 class="widget-title">Programs</h4><div class="menu-programs-container"><ul id="menu-programs" class="menu"><li id="menu-item-14117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14117 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/hmi-semester/" class="tc-menu-inner">Semester</a></li>
+<li id="menu-item-14118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14118 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/hmi-summer-term/" class="tc-menu-inner">Summer</a></li>
+<li id="menu-item-14119" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14119 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/hmi-gap/" class="tc-menu-inner">Gap</a></li>
+<li id="menu-item-14120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14120 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/adult-programs/" class="tc-menu-inner">Adult</a></li>
+<li id="menu-item-14212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14212 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://hminet.org/request-information/" class="tc-menu-inner">Request Information</a></li>
+<li id="menu-item-14364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14364 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="https://hminet.org/apply-now/" class="tc-menu-inner">Apply Now</a></li>
+</ul></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9fe5798" data-id="9fe5798" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5d78e66 elementor-widget elementor-widget-thim-navigation-menu" data-id="5d78e66" data-element_type="widget" data-widget_type="thim-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="widget widget_nav_menu"><h4 class="widget-title">About</h4><div class="menu-footerabout-container"><ul id="menu-footerabout" class="menu"><li id="menu-item-14122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14122 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="/about-us/directory/" class="tc-menu-inner">Directory</a></li>
+<li id="menu-item-14123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14123 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="/Facilities-Rentals" class="tc-menu-inner">Facilities Rentals</a></li>
+<li id="menu-item-14124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14124 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="/employment/" class="tc-menu-inner">Employment</a></li>
+<li id="menu-item-14125" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-14125 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="/blog/" class="tc-menu-inner">HMI Blog</a></li>
+<li id="menu-item-14692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14692 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://hminet.org/bookstore/" class="tc-menu-inner">Online Store</a></li>
+</ul></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f095090" data-id="f095090" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cb6e0a5 elementor-widget elementor-widget-thim-navigation-menu" data-id="cb6e0a5" data-element_type="widget" data-widget_type="thim-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="widget widget_nav_menu"><h4 class="widget-title">Support</h4><div class="menu-footersupport-container"><ul id="menu-footersupport" class="menu"><li id="menu-item-14127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14127 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/give/the-hmi-fund/" class="tc-menu-inner">HMI Fund</a></li>
+<li id="menu-item-14128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14128 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/give/campaign-for-community/" class="tc-menu-inner">Campaign for Community</a></li>
+<li id="menu-item-14129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14129 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/give/endowment/" class="tc-menu-inner">Endowment</a></li>
+<li id="menu-item-14130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14130 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/stay-connected/alumni/" class="tc-menu-inner">For Alumni</a></li>
+</ul></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-8a0577c" data-id="8a0577c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5d08639 footer-translate elementor-widget elementor-widget-thim-navigation-menu" data-id="5d08639" data-element_type="widget" data-widget_type="thim-navigation-menu.default">
+				<div class="elementor-widget-container">
+			<div class="widget widget_nav_menu"><h4 class="widget-title">Translate Page</h4><div class="menu-support-container"><ul id="menu-support" class="menu"><li id="menu-item-7089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7089 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://docspress.thimpress.com/eduma/" class="tc-menu-inner">Documentation</a></li>
+<li id="menu-item-7090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7090 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="https://thimpress.com/forums/" class="tc-menu-inner">Forums</a></li>
+<li id="menu-item-7091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7091 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Language Packs</a></li>
+<li id="menu-item-7092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7092 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Release Status</a></li>
+</ul></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0333f6f elementor-widget elementor-widget-shortcode" data-id="0333f6f" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+<style type="text/css">
+<!--
+
+.prisna-gwt-align-left {
+	text-align: left !important;
+}
+.prisna-gwt-align-right {
+	text-align: right !important;
+}
+
+
+
+body {
+	top: 0 !important;
+}
+.goog-te-banner-frame {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+#goog-gt-tt,
+.goog-tooltip,
+.goog-tooltip:hover {
+	display: none !important;
+}
+.goog-text-highlight {
+	background-color: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+}
+.translated-rtl font,
+.translated-ltr font {
+	background-color: transparent !important;
+	box-shadow: none !important;
+	box-sizing: border-box !important;
+	-webkit-box-sizing: border-box !important;
+	-moz-box-sizing: border-box !important;
+}
+
+-->
+</style>
+
+
+
+<div id="google_translate_element" class="prisna-gwt-align-left"></div>
+<script type="text/javascript">
+/*<![CDATA[*/
+function initializeGoogleTranslateElement() {
+	new google.translate.TranslateElement({
+		pageLanguage: "en",
+		layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+		includedLanguages: "ar,zh-CN,en,fr,ko,es,vi"
+	}, "google_translate_element");
+}
+/*]]>*/
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=initializeGoogleTranslateElement"></script></div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+</div>
+		</aside>				</div>
+			</div>
+		</div>
+	
+				<div class="copyright-area">
+				<div class="container">
+					<div class="copyright-content">
+						<div class="row">
+							<div class="col-sm-6"><p class="text-copyright">Copyright  © 2023 High Mountain Institute.  All Rights Reserved.
+<br>
+<a href="https://hminet.org/wp-content/uploads/2023/03/HMI-Annual-No-Asbestos-Notification-Letter-03.2023-1.pdf" target="_blank">HMI is an asbestos-free school.</a></p></div>								<div class="col-sm-6 text-right">
+									<aside id="nav_menu-14" class="widget widget_nav_menu"><div class="menu-privacy-container"><ul id="menu-privacy" class="menu"><li id="menu-item-7094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7094 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/terms-and-conditions-of-use" class="tc-menu-inner">Terms</a></li>
+<li id="menu-item-7093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7093 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/risk-management/" class="tc-menu-inner">Risk Management</a></li>
+<li id="menu-item-7132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7132 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><a href="/eec" class="tc-menu-inner">Essential Eligibility Criteria</a></li>
+</ul></div></aside>								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		
+</footer><!-- #colophon -->
+</div><!--end main-content-->
+
+			<div class="footer-bottom">
+
+				<div class="container">
+					<aside id="text-1210018" class="widget widget_text footer_bottom_widget">			<div class="textwidget">		<div data-elementor-type="wp-post" data-elementor-id="8896" class="elementor elementor-8896" data-elementor-post-type="ae_global_templates">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-4c01fd4 elementor-section-stretched elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4c01fd4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64826d6" data-id="64826d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8e25465 elementor-hidden-desktop elementor-widget elementor-widget-spacer" data-id="8e25465" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8177b9d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8177b9d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9e99696" data-id="9e99696" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-66227cd elementor-hidden-desktop elementor-widget elementor-widget-spacer" data-id="66227cd" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a940a53 elementor-widget elementor-widget-spacer" data-id="a940a53" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5413486 elementor-widget elementor-widget-spacer" data-id="5413486" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+</div>
+		</aside>				</div>
+
+			</div>
+		
+</div><!-- end content-pusher-->
+
+			<a href="#" id="back-to-top">
+				<i class="fa fa-chevron-up" aria-hidden="true"></i>
+			</a>
+			
+
+</div><!-- end wrapper-container -->
+
+<div class="simple-banner simple-banner-text" style="display:none !important"></div><div class="gallery-slider-content"></div>
+			<script type="text/javascript">
+				var _paq = _paq || [];
+								_paq.push(['trackPageView']);
+								(function () {
+					var u = "https://stats1.wpmudev.com/";
+					_paq.push(['setTrackerUrl', u + 'track/']);
+					_paq.push(['setSiteId', '156657']);
+					var d   = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+					g.type  = 'text/javascript';
+					g.async = true;
+					g.defer = true;
+					g.src   = 'https://stats.wpmucdn.com/analytics.js';
+					s.parentNode.insertBefore(g, s);
+				})();
+			</script>
+			<!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://hminet.org/wp-admin/admin-ajax.php";
+</script>
+		<script>
+            window.addEventListener('load', function() {
+                /**
+                 * Fix issue there is an empty spacing between image and title of owl-carousel
+                 */
+                setTimeout(function() {
+                    var $ = jQuery;
+                    var $carousel = $('.thim-owl-carousel-post').each(function() {
+                        $(this).find('.image').css('min-height', 0);
+                        $(window).trigger('resize');
+                    });
+                }, 500);
+            });
+		</script>
+						<script data-cfasync="false" type="text/javascript">
+					function onDomReady() {
+  var cb = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : noop;
+  var win = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : window.top;
+
+  if (typeof cb === 'function') {
+    if (win.document.readyState !== 'loading') {
+      cb();
+    } else if (win.document.addEventListener) {
+      win.document.addEventListener('DOMContentLoaded', cb);
+    } else {
+      win.attachEvent('onload', cb);
+    }
+  }
+}
+
+function isInIterable(node, iterable) {
+  for (var i = 0; i < iterable.length; i++) {
+    var currentIterable = iterable[i];
+    if (currentIterable === node || currentIterable.contains(node)) {
+      return true;
+    }
+  }
+
+  return false;
+}
+
+function addQuotesToTestimonials() {
+  var testimonialContent = jQuery('.hmi-quote .elementor-testimonial-content');
+  var quote = '<img class="hmi-quote-img" src="/wp-content/uploads/2019/09/Quotation-Marks.png" />';
+
+  testimonialContent.prepend(quote);
+  testimonialContent.append(quote);
+}
+
+function closeAccordionsByDefault() {
+  var accordionItems = document.querySelectorAll('.elementor-accordion-item:first-of-type');
+  var openAccordions = document.querySelectorAll('.accordion-open');
+  for (var i = 0; i < accordionItems.length; i++) {
+    var currentItem = accordionItems[i].firstElementChild;
+    if (!isInIterable(currentItem, openAccordions)) {
+      currentItem.classList.remove('elementor-active');
+      currentItem.nextElementSibling.classList.remove('elementor-active');
+      currentItem.nextElementSibling.style = 'display: none;';
+    }
+  }
+}
+
+function addCloseButtonToBanner() {
+  var isHidden = true;
+  try {
+    isHidden = Boolean(sessionStorage.getItem('hide_banner') || false);
+  } catch {}
+  var banner = window.document.getElementById('simple-banner');
+  var closeButton = window.document.createElement('button');
+  closeButton.classList.add('banner_close');
+  if (isHidden) {
+    banner.style.display = 'none';
+  }
+  closeButton.innerText = '×';
+  closeButton.setAttribute('aria-label', 'Close Banner');
+  closeButton.addEventListener('click', function close() {
+    banner.classList.add('banner_hidden');
+    try {
+      sessionStorage.setItem('hide_banner', 'true');
+    } catch {}
+  });
+  banner.appendChild(closeButton);
+}
+
+function listenForFormSubmission() {
+  var actions = {
+    // Form on /contact
+    726: () => window.ga('send', 'event', 'form', 'submit', 'contact_us'),
+  };
+  window.document.addEventListener(
+    'wpcf7submit',
+    function (event) {
+      if (typeof actions[event.detail.contactFormId] === 'function') {
+        actions[event.detail.contactFormId](event);
+      }
+    },
+    false,
+  );
+}
+
+(function checkLocale() {
+  var query = window.location.search.slice(1);
+  var queryObject = query.split('&').reduce(function (obj, queryPart) {
+    var querySplit = queryPart.split('=');
+    var key = querySplit[0];
+    var value = querySplit[1];
+    if (key && value) {
+      var toReturn = {};
+      toReturn[key] = value;
+
+      return Object.assign({}, obj, toReturn);
+    }
+
+    return obj;
+  }, {});
+
+  if (queryObject.locale) {
+    document.cookie =
+      'googtrans=/en/' + queryObject.locale + '; domain=' + window.location.host.split('www')[1];
+    document.cookie = 'googtrans=/en/' + queryObject.locale + ';';
+    window.location.replace(window.location.url.split('?')[0]);
+  }
+})();
+
+(function setBlogHeader() {
+  var blogTitle = document.querySelector('body.single.single-post h2');
+
+  if (blogTitle) {
+    blogTitle.textContent = 'Blog';
+  }
+})();
+
+function seasonalFooterImage() {
+  var seasonImages = [
+    '/wp-content/uploads/2020/09/Winter-Exped.jpg',
+    '/wp-content/uploads/2020/09/Spring-Canyons.jpg',
+    '/wp-content/uploads/2020/09/Summer-Backpacking.jpg',
+    '/wp-content/uploads/2020/09/Fall-Foliage.jpg',
+  ];
+
+  var month = new Date().getMonth();
+
+  var season = Math.floor(month / 3);
+
+  var imageContainer = document.querySelector(
+    '.footer-bottom .elementor-inner > .elementor-section-wrap > .elementor-element',
+  );
+
+  if (imageContainer) {
+    imageContainer.style.backgroundImage = 'url(' + seasonImages[season] + ')';
+  }
+}
+
+onDomReady(function () {
+  addQuotesToTestimonials();
+  closeAccordionsByDefault();
+  addCloseButtonToBanner();
+  listenForFormSubmission();
+  seasonalFooterImage();
+});
+				</script>
+							<script>
+                (function(i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function() {
+                        (i[r].q = i[r].q || []).push(arguments);
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m);
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-75796698-1', 'auto');
+                ga('send', 'pageview');
+			</script>
+			<link rel='stylesheet' id='elementor-post-8920-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/20740c8b04e5d1e4d090e1cc42cb7fc5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fluentform-elementor-widget-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/83801739f5b96f9108727257d15588d6.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-8896-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/c3f6308f1ae269a61f4f183371817014.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wphb-3-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/95e76b10eecce71d590a51ef6af2b4bf.css' type='text/css' media='all' />
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.2" /><link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.2' type='text/css' media='print' onload='this.media=&#34;all&#34;' />
+<link rel='stylesheet' id='wphb-4-css' href='https://hminet.org/wp-content/uploads/hummingbird-assets/b80473f58caeacc954238c8a8d0aa8de.css' type='text/css' media='all' />
+<script type="text/javascript" id="wphb-5-js-extra">
+/* <![CDATA[ */
+var thim_js_translate = {"login":"Username","password":"Password","close":"Close"};;;var localize = {"ajaxurl":"https:\/\/hminet.org\/wp-admin\/admin-ajax.php","nonce":"537f7c1916","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/hminet.org\/welcome-simon-kearns-hmis-new-advancement-associate\/","cart_redirectition":"no","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/7f5f2ef9a18585190595aeaada34c080.js" id="wphb-5-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js" id="elementor-pro-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/96c0af45f0678ee9fb0ef4bf894b6ed0.js" id="wphb-6-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-includes/js/dist/vendor/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/3da68552a149f1b0e88cd8eb760bf65c.js" id="wphb-7-js"></script>
+<script type="text/javascript" id="wphb-7-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wphb-8-js-before">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/hminet.org\/wp-admin\/admin-ajax.php","nonce":"812c7054e7","urls":{"assets":"https:\/\/hminet.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/hminet.org\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/hminet.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/f5e738b861c69a038fb19fe7c0fead56.js" id="wphb-8-js"></script>
+<script type="text/javascript" src="https://hminet.org/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="wphb-9-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
+"version":"3.21.2","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"container_grid":true,"theme_builder_v2":true,"home_screen":true,"ai-layout":true,"landing-pages":true,"form-submissions":true},"urls":{"assets":"https:\/\/hminet.org\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"viewport_mobile":767,"viewport_tablet":1024,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Blog | High Mountain Institute","excerpt":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://hminet.org/wp-content/uploads/hummingbird-assets/69ef27ebcdf994ef7b369c15f6b57f23.js" id="wphb-9-js"></script>
+
+</body>
+</html>
